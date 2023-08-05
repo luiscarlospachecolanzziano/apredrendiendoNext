@@ -1,2 +1,2 @@
 # apredrendiendoNext
- base educatica para aprender next con react
+ base educativa para aprender next con react
